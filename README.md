@@ -1,8 +1,9 @@
-### <div align="center">Hi there, I'm [Your Name]! 👋🚀</div>
+### <div align="center">Hi there, I'm Utsav Lankapati! 👋🚀</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&vCenter=true&random=false&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Building+Textron+%26+Vermeil+AI;Minimal+APIs+%7C+Scalable+Architectures;Hands-on+Coder+%7C+Tech+Enthusiast;In-depth+Research+%7C+Building+AI+Assistants" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=.Machine+Learning+%7C+Deep+Learning+%7C+Data+Science.;Building+Textron+%26+Vermeil+AI;Minimal+APIs+%7C+Scalable+Architectures;Hands-on+Coder+%7C+Tech+Enthusiast;In-depth+Research+%7C+Building+AI+Assistants" alt="Typing SVG" />
 </p>
+
 
 ---
 

@@ -1,8 +1,9 @@
 ### <div align="center">Hi there, I'm Utsav Lankapati! 👋🚀</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=.Machine+Learning+%7C+Deep+Learning+%7C+Data+Science.;Building+Textron+%26+Vermeil+AI;Minimal+APIs+%7C+Scalable+Architectures;Hands-on+Coder+%7C+Tech+Enthusiast;In-depth+Research+%7C+Building+AI+Assistants" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=650&lines=Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Building+Textron+%26+Vermeil+AI;Minimal+APIs+%7C+Scalable+Architectures;Hands-on+Coder+%7C+Tech+Enthusiast;In-depth+Research+%7C+Building+AI+Assistants" alt="Typing SVG" />
 </p>
+
 
 
 ---
@@ -67,7 +68,7 @@
 ## 📬 Contact Me
 
 <p>
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/utsav-lankapati-aa407b307/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/utsav-lankapati-aa407b307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:matrix.utsav.lankapati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>

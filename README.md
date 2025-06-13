@@ -13,7 +13,7 @@
 
 [![Matrixxboy](https://img.shields.io/badge/github-Matrixxboy-purple.svg)](https://github.com/Matrixxboy)
 
-🎯 **AI Enthusiast & Full-Stack Developer** with a passion for **Machine Learning, Deep Learning, and Scalable Architectures**.
+🎯 **AI Enthusiast & Web Developer** with a passion for **Machine Learning, Deep Learning, and Scalable Architectures**.
 - 🔥 **Building Textron & Vermeil AI**: A **real-time LaTeX rendering tool** and an **advanced AI assistant**.
 - 🛠️ **Minimal APIs & Self-Hosted Solutions** – I prioritize efficiency and cost-effectiveness.
 - 📖 **Deep Researcher** – Love working on research papers & cutting-edge AI.

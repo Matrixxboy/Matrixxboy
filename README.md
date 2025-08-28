@@ -112,6 +112,25 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 </div>
 
 ---
+### ✨ My Tools
+<div align="center">
+  <a href="https://github.com/Matrixxboy/Apimatic" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=apimatic&theme=radical&show_owner=true" />
+  </a>
+</div>
+<div align="center">
+<!-- NPM Card -->
+<a href="https://www.npmjs.com/package/apimatic-cli" target="_blank">
+  <img src="https://img.shields.io/npm/v/apimatic-cli?color=CB3837&logo=npm&label=apimatic-cli&style=for-the-badge" alt="npm version" />
+</a>
+
+<!-- PyPI Card -->
+<a href="https://pypi.org/project/Apimatic/" target="_blank">
+  <img src="https://img.shields.io/pypi/v/Apimatic?color=3775A9&logo=python&label=Apimatic&style=for-the-badge" alt="pypi version" />
+</a>
+</div>
+
+---
 
 ### 📊 My GitHub Stats & Activity
 

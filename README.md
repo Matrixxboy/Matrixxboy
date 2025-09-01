@@ -129,6 +129,19 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
   <img src="https://img.shields.io/pypi/v/Apimatic?color=3775A9&logo=python&label=Apimatic&style=for-the-badge" alt="pypi version" />
 </a>
 </div>
+<br>
+<!--QueryCrafter-->
+<div align="center">
+  <a href="https://github.com/Matrixxboy/QueryCrafter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=QueryCrafter&theme=radical&show_owner=true" />
+  </a>
+</div>
+<div align="center">
+<!-- NPM Card -->
+<a href="https://www.npmjs.com/package/querycrafter" target="_blank">
+  <img src="https://img.shields.io/npm/v/querycrafter?color=CB3837&logo=npm&label=querycrafter&style=for-the-badge" alt="npm version" />
+</a>
+</div>
 
 ---
 

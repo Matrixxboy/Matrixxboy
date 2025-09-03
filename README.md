@@ -1,8 +1,12 @@
 <div align="center">
 
-<h1>
-  Hi there, I'm Utsav Lankapati! 👋
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Hi%20there,%20I'm%20Utsav%20Lankapati%20👋&fontSize=40&fontAlignY=35&animation=fadeIn)
+
+<!-- <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Hi" width="36" height="36" /> -->
+
+<!-- <h1> -->
+<!--   Hi there, I'm Utsav Lankapati! 👋 -->
+<!-- </h1> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Building+AI-Powered+Solutions;Open-Source+Enthusiast+%26+Contributor;Minimal+APIs+%7C+Scalable+Architectures" alt="Typing SVG" />
@@ -173,7 +177,10 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 ---
 
 <div align="center">
-  <h3>
+<!--   <h3>
     "The best way to predict the future is to create it!" 🚀
-  </h3>
+  </h3> -->
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text="The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it!"%20🚀&fontSize=30&fontAlignY=35&animation=fadeIn)
+
 </div>

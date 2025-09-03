@@ -12,11 +12,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snake (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Matrixxboy
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
           snake_color: "#FFD700"
           background: "#0D001A"
           frame_duration: 200

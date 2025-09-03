@@ -18,9 +18,8 @@ jobs:
           github_user_name: Matrixxboy
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg
           snake_color: "#FFD700"
-          background: "#0D001A"
           frame_duration: 200
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

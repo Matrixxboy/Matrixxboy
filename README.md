@@ -18,7 +18,7 @@
 <!--   <a href="https://github.com/Matrixxboy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> -->
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/Matrixxboy/Matrixxboy/output/dist/snake.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/Matrixxboy/Matrixxboy/output/dist/snake-dark.svg)
 
 
 </div>

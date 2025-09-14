@@ -138,6 +138,21 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 </a>
 </div>
 <br>
+
+<!--StackScribe-->
+<div align="center">
+  <a href="https://github.com/Matrixxboy/stackscribe" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=stackscribe&theme=radical&show_owner=true" />
+  </a>
+</div>
+<div align="center">
+<!-- NPM Card -->
+<a href="https://www.npmjs.com/package/stackscribe" target="_blank">
+  <img src="https://img.shields.io/npm/v/querycrafter?color=CB3837&logo=npm&label=stackscribe&style=for-the-badge" alt="npm version" />
+</a>
+</div>
+<br>
+
 <!--QueryCrafter-->
 <div align="center">
   <a href="https://github.com/Matrixxboy/QueryCrafter" target="_blank">

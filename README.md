@@ -196,10 +196,10 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 ---
 
 <div align="center">
-<!--   <h3>
+<h3>
     "The best way to predict the future is to create it!" 🚀
-  </h3> -->
+  </h3> 
   
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text="The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it!"%20🚀&fontSize=30&fontAlignY=35&animation=fadeIn)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=30&fontAlignY=35&animation=fadeIn)
 
 </div>

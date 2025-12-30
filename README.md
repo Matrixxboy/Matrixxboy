@@ -114,8 +114,8 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
   <a href="https://github.com/Matrixxboy/SynthCerebrum" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=synthcerebrum&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/Matrixxboy/TheAstroPulse" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=theastropulse&theme=radical&show_owner=true" />
+  <a href="https://github.com/Matrixxboy/TheUnltimateRAG" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=TheUnltimateRAG&theme=radical&show_owner=true" />
   </a>
 </div>
 

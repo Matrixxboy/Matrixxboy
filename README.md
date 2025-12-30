@@ -1,40 +1,37 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Hi%20there,%20I'm%20Utsav%20Lankapati%20👋&fontSize=40&fontAlignY=35&animation=fadeIn)
-
-<!-- <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Hi" width="36" height="36" /> -->
-
-<!-- <h1> -->
-<!--   Hi there, I'm Utsav Lankapati! 👋 -->
-<!-- </h1> -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:240046,100:7b2cbf&height=220&section=header&text=Hi%20there,%20I'm%20Utsav%20Lankapati%20👋&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Building+AI-Powered+Solutions;Open-Source+Enthusiast+%26+Contributor;Minimal+APIs+%7C+Scalable+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E0AAFF&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Building+AI-Powered+Solutions;Open-Source+Enthusiast+%26+Contributor;Minimal+APIs+%7C+Scalable+Architectures" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utsav-lankapati-aa407b307/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:matrix.utsav.lankapati@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!--   <a href="https://github.com/Matrixxboy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/utsav-lankapati-aa407b307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5D2E8C?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matrix.utsav.lankapati@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-5D2E8C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🔮 About Me
 
 I'm an AI enthusiast and full-stack developer with a deep passion for **Machine Learning**, **scalable architectures**, and building impactful technology. I thrive on diving into **research papers** and transforming cutting-edge concepts into practical applications. My current focus is on building **Textron**, a real-time $L^AT_EX$ rendering tool, and **Vermeil AI**, an advanced AI assistant. I believe in writing **clean, modular, and readable code**, with a strong preference for **minimal APIs and efficient, self-hosted solutions**.
 
 ---
 
-### 🛠️ My Tech Stack
+### 👾 My Tech Stack
 
 <div align="center">
 
 <details>
   <summary><strong>🚀 Programming & Markup Languages</strong></summary>
+  <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,6 +43,7 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 
 <details>
   <summary><strong>🤖 AI & Machine Learning</strong></summary>
+  <br>
   <p align="center">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -58,6 +56,7 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 
 <details>
   <summary><strong>🌐 Web Development (Frontend & Backend)</strong></summary>
+  <br>
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -70,6 +69,7 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 
 <details>
   <summary><strong>🗄️ Databases & DevOps</strong></summary>
+  <br>
   <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -81,89 +81,81 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 </details>
 
 <details>
-  <summary><strong>⚙️ Specialized Project Tools</strong></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/OSRM-0088CC?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swiss%20Ephemeris-483D8B?style=for-the-badge&logoColor=white" />
-  </p>
+  <summary><strong>⚙️ Specialized Project Tools</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/OSRM-0088CC?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swiss%20Ephemeris-483D8B?style=for-the-badge&logoColor=white" />
+  </p>
 </details>
 
 <details>
-  <summary><strong>🛡️ Cyber Security & Ethical Hacking</strong></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Metasploit-E82B2B?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <summary><strong>🛡️ Cyber Security & Ethical Hacking</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Metasploit-E82B2B?style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/OSINT-4682B4?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-    <img src="https://img.shields.io/badge/TryHackMe-88C1DE?style=for-the-badge&logo=tryhackme&logoColor=black" />
-  </p>
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+    <img src="https://img.shields.io/badge/TryHackMe-88C1DE?style=for-the-badge&logo=tryhackme&logoColor=black" />
+  </p>
 </details>
 
 </div>
 
 ---
 
-### 💡 My Projects
+### 💜 My Projects
 
 <div align="center">
-  <a href="https://github.com/Matrixxboy/vermeil" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=Vermeil&theme=radical&show_owner=true" />
+  <a href="https://github.com/Matrixxboy/vermeil">
+    <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/Vermeil&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
   </a>
-  <a href="https://github.com/Matrixxboy/SynthCerebrum" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=synthcerebrum&theme=radical&show_owner=true" />
+  <a href="https://github.com/Matrixxboy/SynthCerebrum">
+    <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/synthcerebrum&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
   </a>
-  <a href="https://github.com/Matrixxboy/TheUnltimateRAG" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=TheUnltimateRAG&theme=radical&show_owner=true" />
+  <a href="https://github.com/Matrixxboy/TheUnltimateRAG">
+    <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/TheUnltimateRAG&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
   </a>
 </div>
 
 ---
+
 ### ✨ My Tools
+
 <div align="center">
-  <a href="https://github.com/Matrixxboy/Apimatic" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=apimatic&theme=radical&show_owner=true" />
-  </a>
-</div>
-<div align="center">
-<!-- NPM Card -->
+
+<a href="https://github.com/Matrixxboy/Apimatic" target="_blank">
+  <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/apimatic&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
+</a>
+<br/>
 <a href="https://www.npmjs.com/package/apimatic-cli" target="_blank">
-  <img src="https://img.shields.io/npm/v/apimatic-cli?color=CB3837&logo=npm&label=apimatic-cli&style=for-the-badge" alt="npm version" />
+  <img src="https://img.shields.io/npm/v/apimatic-cli?color=7209b7&logo=npm&label=apimatic-cli&style=for-the-badge" alt="npm version" />
 </a>
-
-<!-- PyPI Card -->
 <a href="https://pypi.org/project/Apimatic/" target="_blank">
-  <img src="https://img.shields.io/pypi/v/Apimatic?color=3775A9&logo=python&label=Apimatic&style=for-the-badge" alt="pypi version" />
+  <img src="https://img.shields.io/pypi/v/Apimatic?color=560bad&logo=python&label=Apimatic&style=for-the-badge" alt="pypi version" />
 </a>
-</div>
-<br>
+<br/><br/>
 
-<!--StackScribe-->
-<div align="center">
-  <a href="https://github.com/Matrixxboy/stackscribe" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=stackscribe&theme=radical&show_owner=true" />
-  </a>
-</div>
-<div align="center">
-<!-- NPM Card -->
+<a href="https://github.com/Matrixxboy/stackscribe" target="_blank">
+  <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/stackscribe&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
+</a>
+<br/>
 <a href="https://www.npmjs.com/package/stackscribe" target="_blank">
-  <img src="https://img.shields.io/npm/v/querycrafter?color=CB3837&logo=npm&label=stackscribe&style=for-the-badge" alt="npm version" />
+  <img src="https://img.shields.io/npm/v/stackscribe?color=7209b7&logo=npm&label=stackscribe&style=for-the-badge" alt="npm version" />
 </a>
-</div>
-<br>
+<br/><br/>
 
-<!--QueryCrafter-->
-<div align="center">
-  <a href="https://github.com/Matrixxboy/QueryCrafter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=QueryCrafter&theme=radical&show_owner=true" />
-  </a>
-</div>
-<div align="center">
-<!-- NPM Card -->
-<a href="https://www.npmjs.com/package/querycrafter" target="_blank">
-  <img src="https://img.shields.io/npm/v/querycrafter?color=CB3837&logo=npm&label=querycrafter&style=for-the-badge" alt="npm version" />
+<a href="https://github.com/Matrixxboy/QueryCrafter" target="_blank">
+  <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/QueryCrafter&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
 </a>
+<br/>
+<a href="https://www.npmjs.com/package/querycrafter" target="_blank">
+  <img src="https://img.shields.io/npm/v/querycrafter?color=7209b7&logo=npm&label=querycrafter&style=for-the-badge" alt="npm version" />
+</a>
+
 </div>
 
 ---
@@ -173,33 +165,28 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 <div align="center">
 
 <a href="https://github.com/Matrixxboy">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Matrixxboy&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=false" alt="Utsav's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Matrixxboy&show_icons=true&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd&hide_border=true&count_private=true&hide_rank=false" alt="Utsav's GitHub Stats" />
 </a>
 <a href="https://github.com/Matrixxboy">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matrixxboy&theme=radical&hide_border=true" alt="Utsav's GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matrixxboy&bg_color=1a0b2e&ring=9d4edd&currStreakLabel=e0aaff&currStreakNum=ffffff&sideNums=e0aaff&sideLabels=e0aaff&dates=ffffff&fire=9d4edd&hide_border=true" alt="Utsav's GitHub Streak" />
 </a>
 <br/>
+
 <a href="https://github.com/Matrixxboy">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrixxboy&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Utsav's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrixxboy&layout=compact&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd&hide_border=true&langs_count=8" alt="Utsav's Top Languages" />
 </a>
 
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matrixxboy&bg_color=1a0b2e&color=e0aaff&line=9d4edd&point=ffffff&hide_border=true" />
+
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Matrixxboy&theme=radical&column=7&margin-w=15&margin-h=15" alt="Utsav's GitHub Trophies"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-<h3>
+  <h3>
     "The best way to predict the future is to create it!" 🚀
   </h3> 
   
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=30&fontAlignY=35&animation=fadeIn)
-
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:240046&height=120&section=footer&fontSize=30&fontAlignY=35&animation=fadeIn)
 </div>

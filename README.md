@@ -13,6 +13,13 @@
   <a href="mailto:matrix.utsav.lankapati@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-5D2E8C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://thematrixtalks.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Blog-5D2E8C?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://utsav-lankapati.onrender.com/" target="_blank" >
+    <img src="https://img.shields.io/badge/Website-5D2E8C?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  
 </p>
 
 </div>

@@ -132,38 +132,22 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 
 ### ✨ My Tools
 
-<div align="center">
+<sub><i>Crafted libraries & CLIs — minimal, powerful, production-ready</i></sub>
 
-<a href="https://github.com/Matrixxboy/Apimatic" target="_blank">
-  <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/apimatic&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
-</a>
-<br/>
-<a href="https://www.npmjs.com/package/apimatic-cli" target="_blank">
-  <img src="https://img.shields.io/npm/v/apimatic-cli?color=7209b7&logo=npm&label=apimatic-cli&style=for-the-badge" alt="npm version" />
-</a>
-<a href="https://pypi.org/project/Apimatic/" target="_blank">
-  <img src="https://img.shields.io/pypi/v/Apimatic?color=560bad&logo=python&label=Apimatic&style=for-the-badge" alt="pypi version" />
-</a>
+<div align="center"> 
+  <br/> 
+  <!-- ===== APIMATIC ===== --> 
+  <kbd> <a href="https://www.npmjs.com/package/apimatic-cli" target="_blank"> <img src="https://img.shields.io/npm/v/apimatic-cli?color=7209b7&logo=npm&label=apimatic-cli&style=for-the-badge" /> </a> <a href="https://pypi.org/project/Apimatic/" target="_blank"> <img src="https://img.shields.io/pypi/v/Apimatic?color=560bad&logo=python&label=Apimatic&style=for-the-badge" /> </a> </kbd>
+
 <br/><br/>
 
-<a href="https://github.com/Matrixxboy/stackscribe" target="_blank">
-  <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/stackscribe&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
-</a>
-<br/>
-<a href="https://www.npmjs.com/package/stackscribe" target="_blank">
-  <img src="https://img.shields.io/npm/v/stackscribe?color=7209b7&logo=npm&label=stackscribe&style=for-the-badge" alt="npm version" />
-</a>
+<!-- ===== STACKSCRIBE ===== --> 
+<kbd> <a href="https://www.npmjs.com/package/stackscribe" target="_blank"> <img src="https://img.shields.io/npm/v/stackscribe?color=7209b7&logo=npm&label=stackscribe&style=for-the-badge" /> </a> </kbd>
+
 <br/><br/>
 
-<a href="https://github.com/Matrixxboy/QueryCrafter" target="_blank">
-  <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/QueryCrafter&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
-</a>
-<br/>
-<a href="https://www.npmjs.com/package/querycrafter" target="_blank">
-  <img src="https://img.shields.io/npm/v/querycrafter?color=7209b7&logo=npm&label=querycrafter&style=for-the-badge" alt="npm version" />
-</a>
-
-</div>
+<!-- ===== QUERYCRAFTER ===== --> 
+<kbd> <a href="https://www.npmjs.com/package/querycrafter" target="_blank"> <img src="https://img.shields.io/npm/v/querycrafter?color=7209b7&logo=npm&label=querycrafter&style=for-the-badge" /> </a> </kbd> </div>
 
 ---
 

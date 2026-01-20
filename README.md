@@ -114,6 +114,7 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 
 ---
 
+### 🎯 My Projects
 <sub><i>Selected works — dark, elegant & experimental</i></sub>
 
 <div align="center"> 

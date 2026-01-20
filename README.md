@@ -114,18 +114,27 @@ I'm an AI enthusiast and full-stack developer with a deep passion for **Machine 
 
 ---
 
-### 💜 My Projects
+<sub><i>Selected works — dark, elegant & experimental</i></sub>
 
-<div align="center">
-  <a href="https://github.com/Matrixxboy/vermeil">
-    <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/Vermeil&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
+<div align="center"> 
+  <!-- ================= VERMEIL ================= --> 
+  <a href="https://github.com/Matrixxboy/vermeil"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=vermeil&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" width="420" /> 
   </a>
-  <a href="https://github.com/Matrixxboy/SynthCerebrum">
-    <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/synthcerebrum&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
-  </a>
-  <a href="https://github.com/Matrixxboy/TheUnltimateRAG">
-    <img src="https://github-readme-repo-card.vercel.app/pin?repo=Matrixxboy/TheUnltimateRAG&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" />
-  </a>
+
+<br/><br/>
+
+<!-- ================= SYNTHCEREBRUM ================= --> 
+<a href="https://github.com/Matrixxboy/SynthCerebrum"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=SynthCerebrum&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" width="420" /> 
+</a>
+
+<br/><br/>
+
+<!-- ================= THE ULTIMATE RAG ================= --> 
+<a href="https://github.com/Matrixxboy/TheUnltimateRAG"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Matrixxboy&repo=TheUnltimateRAG&bg_color=1a0b2e&title_color=e0aaff&text_color=ffffff&icon_color=9d4edd&border_color=9d4edd" width="420" /> 
+</a> 
 </div>
 
 ---
